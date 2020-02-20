@@ -1,0 +1,16 @@
+<suite name="Regression" >
+	
+	<test name="Set Up">
+		<classes>
+			<class name="baseClass.Driver" />
+		</classes>
+	</test>
+	
+	<test name="To test flipkart features with register user">
+	<parameter name="browser" value="chrome"/>
+		<classes>
+			<class name="testScripts.flight_booking" />
+		</classes>
+	</test>
+	
+</suite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Set Up">
+    <classes>
+      <class name="baseClass.Driver"/>
+    </classes>
+  </test> <!-- Set Up -->
+  <test name="To test flipkart features with register user">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testScripts.flight_booking"/>
+    </classes>
+  </test> <!-- To test flipkart features with register user -->
+</suite> <!-- Failed suite [Regression] -->

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shiv/selenium class/Framework_Morning/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

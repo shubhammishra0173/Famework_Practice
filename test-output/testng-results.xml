@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression" duration-ms="32096" started-at="2020-02-15T09:56:27Z" finished-at="2020-02-15T09:56:59Z">
+    <groups>
+    </groups>
+    <test name="Set Up" duration-ms="14" started-at="2020-02-15T09:56:27Z" finished-at="2020-02-15T09:56:27Z">
+    </test> <!-- Set Up -->
+    <test name="To test flipkart features with register user" duration-ms="31931" started-at="2020-02-15T09:56:27Z" finished-at="2020-02-15T09:56:59Z">
+      <class name="testScripts.flight_booking">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testScripts.flight_booking@17fd0e6]" name="initialize" is-config="true" duration-ms="532" started-at="2020-02-15T15:26:26Z" finished-at="2020-02-15T15:26:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testScripts.flight_booking@17fd0e6]" name="setup" is-config="true" duration-ms="19980" started-at="2020-02-15T15:26:27Z" finished-at="2020-02-15T15:26:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="flightbooking(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testScripts.flight_booking@17fd0e6]" name="flightbooking" duration-ms="52" started-at="2020-02-15T15:26:59Z" data-provider="getData" finished-at="2020-02-15T15:26:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercuary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercuary]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["2"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[August]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["24"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Paris]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[October]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA["12"]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Blue Skies Airllines]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Shubham]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightbooking -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScripts.flight_booking@17fd0e6]" name="tearDown" is-config="true" duration-ms="2191" started-at="2020-02-15T15:26:59Z" finished-at="2020-02-15T15:27:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.flight_booking -->
+    </test> <!-- To test flipkart features with register user -->
+  </suite> <!-- Regression -->
+</testng-results>
